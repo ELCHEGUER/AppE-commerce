@@ -22,7 +22,7 @@ const Color = () => {
     },
     {
       _id: 9004,
-      title: "Yellow",
+      title: "Black",
       base: "#f59e0b",
     },
     {
